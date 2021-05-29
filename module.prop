@@ -1,0 +1,6 @@
+id=unifiednlp_installer
+name=UnifiedNLP Only Installer
+version=1.0
+versionCode=10
+author=teh404guy
+description=Install UnifiedNLP to /system/priv-app GmsCore, GsfProxy, FakeStore & DroidGuard Helper to /system/priv-app
